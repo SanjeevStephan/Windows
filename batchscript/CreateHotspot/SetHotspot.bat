@@ -1,0 +1,1 @@
+netsh wlan set hostednetwork mode=allow ssid=iStephenware key=ironman1234
