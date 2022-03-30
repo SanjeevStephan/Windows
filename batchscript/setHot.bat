@@ -1,0 +1,1 @@
+netsh wlan set hostednetwork mode=allow ssid=JioFi4_190F07 key=76428967420
