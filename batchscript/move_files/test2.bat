@@ -1,0 +1,1 @@
+md move && move *.bat D:\BatchScript\move && move *.txt D:\BatchScript\move 

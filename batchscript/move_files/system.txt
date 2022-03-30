@@ -1,0 +1,176 @@
+
+Host Name:                 SAMSUNGZ2
+OS Name:                   Microsoft Windows 8.1 Pro
+OS Version:                6.3.9600 N/A Build 9600
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Stephan
+Registered Organization:   
+Product ID:                00261-50000-00000-AA369
+Original Install Date:     9/11/2016, 6:41:37 PM
+System Boot Time:          1/23/2017, 4:49:17 AM
+System Manufacturer:       Dell Inc.
+System Model:              Vostro 3559
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 78 Stepping 3 GenuineIntel ~2401 Mhz
+BIOS Version:              Dell Inc. 1.1.6, 1/12/2016
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     3,795 MB
+Available Physical Memory: 2,554 MB
+Virtual Memory: Max Size:  3,795 MB
+Virtual Memory: Available: 2,554 MB
+Virtual Memory: In Use:    1,241 MB
+Page File Location(s):     N/A
+Domain:                    WORKGROUP
+Logon Server:              N/A
+Hotfix(s):                 123 Hotfix(s) Installed.
+                           [01]: KB2899189_Microsoft-Windows-CameraCodec-Package
+                           [02]: KB2843630
+                           [03]: KB2868626
+                           [04]: KB2883200
+                           [05]: KB2887595
+                           [06]: KB2893294
+                           [07]: KB2894179
+                           [08]: KB2898108
+                           [09]: KB2898868
+                           [10]: KB2900986
+                           [11]: KB2901125
+                           [12]: KB2903939
+                           [13]: KB2912390
+                           [14]: KB2913152
+                           [15]: KB2913270
+                           [16]: KB2916036
+                           [17]: KB2919355
+                           [18]: KB2923528
+                           [19]: KB2928680
+                           [20]: KB2931358
+                           [21]: KB2931366
+                           [22]: KB2934520
+                           [23]: KB2954879
+                           [24]: KB2961908
+                           [25]: KB2962140
+                           [26]: KB2972103
+                           [27]: KB2975061
+                           [28]: KB2980654
+                           [29]: KB3004365
+                           [30]: KB3004545
+                           [31]: KB3011780
+                           [32]: KB3013172
+                           [33]: KB3013410
+                           [34]: KB3013531
+                           [35]: KB3018133
+                           [36]: KB3019978
+                           [37]: KB3021674
+                           [38]: KB3021910
+                           [39]: KB3023219
+                           [40]: KB3023222
+                           [41]: KB3024751
+                           [42]: KB3027209
+                           [43]: KB3029432
+                           [44]: KB3030377
+                           [45]: KB3034348
+                           [46]: KB3037924
+                           [47]: KB3038936
+                           [48]: KB3041857
+                           [49]: KB3042058
+                           [50]: KB3042553
+                           [51]: KB3044374
+                           [52]: KB3044673
+                           [53]: KB3045992
+                           [54]: KB3045999
+                           [55]: KB3046017
+                           [56]: KB3046737
+                           [57]: KB3048043
+                           [58]: KB3053946
+                           [59]: KB3054256
+                           [60]: KB3054464
+                           [61]: KB3055323
+                           [62]: KB3055642
+                           [63]: KB3056347
+                           [64]: KB3059317
+                           [65]: KB3061493
+                           [66]: KB3063843
+                           [67]: KB3072307
+                           [68]: KB3074228
+                           [69]: KB3074545
+                           [70]: KB3074548
+                           [71]: KB3076949
+                           [72]: KB3078676
+                           [73]: KB3079318
+                           [74]: KB3081320
+                           [75]: KB3084135
+                           [76]: KB3086255
+                           [77]: KB3087137
+                           [78]: KB3092601
+                           [79]: KB3097992
+                           [80]: KB3097997
+                           [81]: KB3098779
+                           [82]: KB3102939
+                           [83]: KB3109094
+                           [84]: KB3109976
+                           [85]: KB3121261
+                           [86]: KB3121918
+                           [87]: KB3122654
+                           [88]: KB3123479
+                           [89]: KB3126030
+                           [90]: KB3126434
+                           [91]: KB3126593
+                           [92]: KB3127222
+                           [93]: KB3127226
+                           [94]: KB3133690
+                           [95]: KB3135456
+                           [96]: KB3135782
+                           [97]: KB3138962
+                           [98]: KB3139398
+                           [99]: KB3139914
+                           [100]: KB3140219
+                           [101]: KB3140222
+                           [102]: KB3142026
+                           [103]: KB3142030
+                           [104]: KB3144850
+                           [105]: KB3145384
+                           [106]: KB3146751
+                           [107]: KB3146978
+                           [108]: KB3149157
+                           [109]: KB3155784
+                           [110]: KB3156017
+                           [111]: KB3161102
+                           [112]: KB3161561
+                           [113]: KB3161949
+                           [114]: KB3163247
+                           [115]: KB3163291
+                           [116]: KB3164035
+                           [117]: KB3169704
+                           [118]: KB3173424
+                           [119]: KB3174644
+                           [120]: KB3177186
+                           [121]: KB3178539
+                           [122]: KB3184122
+                           [123]: KB3188743
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Realtek PCIe GBE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [03]: Intel(R) Dual Band Wireless-AC 3160
+                                 Connection Name: Wi-Fi
+                                 Status:          Media disconnected
+                           [04]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::f564:b28f:d3ea:eba
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
